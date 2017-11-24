@@ -21,8 +21,10 @@ h1 {
 
 .img1 {
   float: left;
+  width: 40px;
 }
 
 .img2 {
   float: right;
+  width: 40px;
 }
