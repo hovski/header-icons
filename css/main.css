@@ -9,3 +9,10 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h1 {
+  font-size: 2rem;
+  color: #fff;
+  background-color: #d05c2e;
+  text-align: center;
+}
