@@ -23,10 +23,12 @@ h1 {
   float: left;
   width: 40px;
   margin: .3rem;
+  padding: .4rem 0;
 }
 
 .img2 {
   float: right;
   width: 40px;
   margin: .3rem;
+  padding: .4rem 0;
 }
