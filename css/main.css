@@ -22,9 +22,11 @@ h1 {
 .img1 {
   float: left;
   width: 40px;
+  margin: .3rem;
 }
 
 .img2 {
   float: right;
   width: 40px;
+  margin: .3rem;
 }
